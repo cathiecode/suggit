@@ -1,3 +1,7 @@
+# SuggIt -サジット-
+![Screenshot_2022-02-05_at_01-06-45_Vite_App](https://github.com/cathiecode/suggit/assets/74973441/b13407bd-0442-47f9-a06d-deef662bc1de)
+
+
 # あらた界隈
 
 ## プロダクト概要
